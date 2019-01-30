@@ -1,9 +1,9 @@
 links.txt
-Created Wed Jan 30 13:07:22 AKST 2019
-by Raymond E. Marcil <marcilr@gmail.com>
+Created Mon Sep 26 10:17:12 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-logrotate related links
+Logging related links
 
 
 Links
@@ -12,3 +12,12 @@ logrotate - rotates, compresses, and mails system logs
 System Administrator's Manual
 http://www.linuxcommand.org/man_pages/logrotate8.html
 
+Understanding logrotate on Debian - part 1
+It's no fun when log files grow out of control. In this two-part series, learn how to use logrotate to
+keep those logs in check.
+http://articles.slicehost.com/2010/6/30/understanding-logrotate-on-debian-part-1
+
+Understanding logrotate on Debian - part 2
+In this second part of the logrotate series we look at how to set up rotation
+for virtual host logs, as well as some troubleshooting techniques.
+http://articles.slicehost.com/2010/6/30/understanding-logrotate-on-debian-part-2It's no fun when log files grow out of control. In this two-part series, learn how to use logrotate to keep those logs in check.
